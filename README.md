@@ -1,2 +1,9 @@
 # EverythingCheck
+ ## Description  
  Zip releases which contain everything you may need while starting to speedrun minecraft.
+
+ ## How do i use it?  
+You can get your preferred version of the release [here](https://github.com/Crystal15118/EverythingCheck/releases/latest) or you can get the `MCSR-all.zip` as it includes everything that you could ever need for speedrunning minecraft and is about ready to use. After it has downloaded unzip the file where you want everything to be and you are good to go.
+
+## Safety & Security  
+As the source files for releases are too big, we can't open source them. So, for your safety and securty if you are concerned with it, first unzip a release in a secure environment i.e. a virtual machine, etc.
